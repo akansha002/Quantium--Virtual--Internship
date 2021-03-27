@@ -7,3 +7,4 @@ This repository includes solutions to various tasks done under Quantium Data Ana
 
 * Developed a strategy for the spending manager to implement, which would optimise slaes for specific product categories
 
+## The code is written in Jupyter Notebook using various Python libraries.
